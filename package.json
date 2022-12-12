@@ -1,0 +1,12 @@
+{
+	"name": "advent-of-code",
+	"version": "1.0.0",
+	"description": "Advent of Code is an Advent calendar of small programming puzzles",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "mxncson",
+	"license": "ISC"
+}
